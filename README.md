@@ -1,3 +1,9 @@
+<p align="center">
+	<a href="https://www.linkedin.com/in/aleksandr-stepanov/"><img src="https://i.imgur.com/pZmhiqr.png" height="20" alt="LinkedIn"></a>
+	<a href="https://stepanovcodes.netlify.app/"><img src="https://i.imgur.com/MTI95MR.png" height="20" alt="Portfolio"></a>
+  <a href="https://github.com/stepanovcodes"><img src="https://i.imgur.com/VAx0YS5.png" height="20" alt="GitHub"></a>
+</p>
+
 ## Hi there 👋 I'm Alex!
 
 👨‍💻 I'm a Full Stack Developer with AGILE product management experience
@@ -26,9 +32,3 @@
 - 💼 Visit my **[Portfolio](https://stepanovcodes.netlify.app/)**
 - 📧 Email me at **[stepanov.hw@gmail.com](mailto:stepanov.hw@gmail.com)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/aleksandr-stepanov/)**
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/aleksandr-stepanov/"><img src="https://i.imgur.com/pZmhiqr.png" height="20" alt="LinkedIn"></a>
-	<a href="https://stepanovcodes.netlify.app/"><img src="https://i.imgur.com/MTI95MR.png" height="20" alt="Portfolio"></a>
-  <a href="https://github.com/stepanovcodes"><img src="https://i.imgur.com/VAx0YS5.png" height="20" alt="GitHub"></a>
-</p>
