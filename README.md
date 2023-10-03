@@ -33,4 +33,4 @@
 - 📧 Email me at **[stepanov.hw@gmail.com](mailto:stepanov.hw@gmail.com)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/aleksandr-stepanov/)**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanovcodes&layout=donut" alt="skherad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanovcodes&layout=donut" alt="stepanovcodes" /></p>
