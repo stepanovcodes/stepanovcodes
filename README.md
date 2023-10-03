@@ -17,11 +17,11 @@
 
 - ⚡ **Soft Skills:** Innovative problem-solving
 
-- 💻 **Languages:** JavaScript | HTML | CSS | Python | SQL
+- 💻 **Languages:** JavaScript | TypeScript | HTML | CSS | Python | SQL
   
-- 💻 **Libraries and Frameworks:** Node.js | Express | React | Next.js | TypeScript | Tailwind CSS | Bootstrap | Sequelize | Django | OAuth 2.0
+- 💻 **Libraries and Frameworks:** Node.js | Express | React | Next.js | Tailwind CSS | Bootstrap | Sequelize | Django | OAuth 2.0
 
-- 💻 **Utilities:** CLI | Git | GitHub | GitLab | VS Code | MongoDB | PostgreSQL | Postman | openAI APIs | RESTful API | AWS | Chrome DevTools | Jira | Figma | Slack | Trello | Zoom | WITSML | WITS | Microsoft Fluent 2 Design System
+- 💻 **Utilities:** CLI | Git | GitHub | GitLab | VS Code | MongoDB | PostgreSQL | Postman | openAI APIs | RESTful API | AWS | Chrome DevTools | Jira | Figma | Slack | Trello | Zoom | WITSML | WITS | Fluent 2 Design | Material Design
 
 - ⚙️ **Product Management:** Agile Methodology | Software Development Lifecycle | Eliciting Requirements | Roadmaps | Agile Sprint Planning | Reviews & Metrics
 
@@ -32,3 +32,5 @@
 - 💼 Visit my **[Portfolio](https://stepanovcodes.netlify.app/)**
 - 📧 Email me at **[stepanov.hw@gmail.com](mailto:stepanov.hw@gmail.com)**
 - 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/aleksandr-stepanov/)**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanovcodes&layout=donut" alt="skherad" /></p>
