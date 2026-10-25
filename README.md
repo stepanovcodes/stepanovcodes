@@ -1,36 +1,28 @@
 <p align="center">
 	<a href="https://www.linkedin.com/in/aleksandr-stepanov/"><img src="https://i.imgur.com/pZmhiqr.png" height="30" alt="LinkedIn"></a>
-	<a href="https://www.stepanovcodes.com/"><img src="https://i.imgur.com/MTI95MR.png" height="30" alt="Portfolio"></a>
   	<a href="https://github.com/stepanovcodes"><img src="https://i.imgur.com/VAx0YS5.png" height="30" alt="GitHub"></a>
 </p>
 
-## Hi there 👋 I'm Alex!
+## Hi, I'm Alex 👋
 
-👨‍💻 I'm a Full Stack Developer with AGILE product management experience
+**Product Manager (AI Builder): from idea to shipped code.**
 
-📍 Based in Calgary, AB 🇨🇦
+I take a product problem from discovery to spec, design, code, test and release myself, building with AI coding tools every day. Most of my work is in private repositories, so the graph below shows activity counts only.
 
+📍 Calgary, AB 🇨🇦
 
-### About Me 👩‍🚀
+### What I do
 
-- 😜 **Fun fact:** Former petroleum engineer and technical sales. Love new technologies, programming, and PEOPLE ! 
+- 🧭 **Product:** customer discovery, problem framing, roadmaps, success metrics, one-week delivery cycles
+- 🤖 **AI-first building:** Claude Code with specialist agents for review, security and tests; spec → plan → build → test workflow; MCP servers; n8n automation
+- 💻 **Engineering:** TypeScript, React, MUI, Node.js, Go, Python, SQL / PostgreSQL, GitHub Actions, Docker
+- 🛠️ **Tools:** Linear, GitHub, Figma, Claude Code, Claude Cowork
 
-- ⚡ **Soft Skills:** Innovative problem-solving
+### Background
 
-- 💻 **Languages:** JavaScript | TypeScript | HTML | CSS | Python | SQL
-  
-- 💻 **Libraries and Frameworks:** Node.js | Express | React | Next.js | TypeScript | TailwindCSS | Bootstrap | Django | Fluent 2 | Material UI
+Petroleum engineer turned product manager and developer: 5 years of B2B product management, 2 years in technical sales, and a love for new technology and people.
 
-- 💻 **Utilities:**  CLI | Git | GitHub | VS Code | Mongoose | MongoDB | Sequelize | PostgreSQL | Postman | openAI API | RESTful API | Jira | Figma | WITSML | WITS
+### Contact
 
-- ⚙️ **Product Management:** Agile Methodology | Software Development Lifecycle | Eliciting Requirements | Roadmaps | Agile Sprint Planning | Reviews & Metrics
-
-- ✨ **Interests:** Biking🚴 and exploring the world with my baby boy👶
-
-### Contact Me 📥 
-
-- 💼 Visit my **[Portfolio](https://www.stepanovcodes.com/)**
-- 📧 Email me at **[stepanov.hw@gmail.com](mailto:stepanov.hw@gmail.com)**
-- 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/aleksandr-stepanov/)**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stepanovcodes&layout=donut" alt="stepanovcodes" /></p>
+- 📧 **[stepanov.hw@gmail.com](mailto:stepanov.hw@gmail.com)**
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/aleksandr-stepanov/)**
